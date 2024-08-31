@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "k-lemmen.github.io"
+  title: "Kimberley D. Lemmen"
   navbar:
     left:
       - href: index.qmd
@@ -12,9 +12,10 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: Yeti
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
