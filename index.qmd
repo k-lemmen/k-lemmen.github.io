@@ -3,9 +3,9 @@ format:
   html:
     toc: false
     
-#title: "Kimberley D. Lemmen"
+title: "Kimberley D. Lemmen"
 about:
-  template: jolla
+  template: trestles
   image: media/KimLemmen_Rigi.jpeg
   image-shape: round
   image-width: 20em
@@ -15,6 +15,10 @@ about:
 
 I am an experimental evolutionary ecologist who studies how ecosystem context impacts the ecology and evolution of species interactions.
 
-I am currently a postdoctoral researcher in the Biotic Responses to Environmental Change at the University of Zurich led by [Dr. Frank Pennekamp](https://www.ieu.uzh.ch/en/staff/member/pennekamp_frank.html){target="_blank"}. 
-
 <center><img src="media/ministats.jpg" width="400"/></center>
+
+------------------------------------------------------------------------
+
+I am currently a postdoctoral researcher in the Biotic Responses to Environmental Change at the University of Zurich led by [Dr. Frank Pennekamp](https://www.ieu.uzh.ch/en/staff/member/pennekamp_frank.html){target="_blank"}.
+
+This website is currently a work in progress. For an overview of my publications see my [Google Scholar](https://scholar.google.nl/citations?user=xWE5xroAAAAJ&hl=en){target="_blank"}.
