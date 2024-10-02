@@ -9,16 +9,37 @@ about:
   image: media/KimLemmen_Rigi.jpeg
   image-shape: round
   image-width: 20em
+  links: 
+    - text: "{{< iconify fa6-brands:google-scholar size=large >}} Google Scholar"
+      url: https://scholar.google.nl/citations?user=xWE5xroAAAAJ&hl=en
+    - icon: github
+      text: Github
+      url: https://github.com/k-lemmen
+    - text: "{{< iconify fa6-brands:google-scholar size=large >}} Google Scholar"
+      url: https://scholar.google.nl/citations?user=xWE5xroAAAAJ&hl=en
+    #- text: "{{< iconify fa6-brands:orcid size=large >}} ORCID"
+    #  url: https://orcid.org/0000-0002-2100-5420
+    - icon: twitter
+      text: Twitter
+      url:  https://x.com/KimberleyLemmen
 ---
 
-### About me
+### **About me**
 
-I am an experimental evolutionary ecologist who studies how ecosystem context impacts the ecology and evolution of species interactions.
+I am an experimental evolutionary ecologist who studies how ecosystem context impacts the ecology and evolution of species interactions. I am interested in quantifying how environmental context (e.g., food web structure, resource quality) modifies species interactions to gain a better understanding of the mechanisms that maintain biodiversity and influence community dynamics.
 
-<center><img src="media/ministats.jpg" width="400"/></center>
+My research primarily uses use lab-based experiments to quantify species interactions, assay traits, and conduct experimental evolution. I primarily work with aquatic microorganisms, specifically protists and microzooplankton, specializing in continuous culturing methods (i.e., chemostats).
+
+<center><img src="media/ministats.jpg" width="600"/></center>
 
 ------------------------------------------------------------------------
 
-I am currently a postdoctoral researcher in the Biotic Responses to Environmental Change at the University of Zurich led by [Dr. Frank Pennekamp](https://www.ieu.uzh.ch/en/staff/member/pennekamp_frank.html){target="_blank"}.
+I am currently a postdoctoral researcher in the [Biotic Responses to Environmental Change](https://www.ieu.uzh.ch/en/research/ecology/biotic_responses.html){target="_blank"} at the [University of Zurich](https://www.ieu.uzh.ch/en.html){target="_blank"} led by [Dr. Frank Pennekamp](https://www.ieu.uzh.ch/en/staff/member/pennekamp_frank.html){target="_blank"}.
+
+In January 2025 I will join [Dr. Emanuel Fronhofer’s](https://www.emanuelfronhofer.net/){target="_blank"} group at the [Institut des Sciences de l'Evolution](https://isem-evolution.fr/en/){target="_blank"} (ISEM) of the [CNRS](https://www.cnrs.fr/en){target="_blank"} and the [University of Montpellier](https://www.umontpellier.fr/en/){target="_blank"} as an [SNF Postdoc.Mobility Fellow](https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility){target="_blank"}.
+
+------------------------------------------------------------------------
+
+<br> <br>
 
 This website is currently a work in progress. For an overview of my publications see my [Google Scholar](https://scholar.google.nl/citations?user=xWE5xroAAAAJ&hl=en){target="_blank"}.
