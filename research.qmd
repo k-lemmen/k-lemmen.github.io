@@ -53,7 +53,7 @@ My research investigates the capacity of populations to adapt to adverse resourc
 ::: {.column width="40%"}
 <br> <br>
 
-<center><img src="media/speciesmix.jpeg" width="80%"/></center>
+<center><img src="media/foodweb_adapt.jpg" width="80%"/></center>
 :::
 
 ::: {.column width="60%"}
