@@ -4,11 +4,19 @@ project:
 
 website:
   title: "Kimberley D. Lemmen"
+  favicon: media/ciliateicon.png
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: pubs.qmd
+        text: Publications
+      - href: "media/Lemmen_CV_General.pdf"
+        text: CV
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

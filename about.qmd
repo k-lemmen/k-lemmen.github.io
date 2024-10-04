@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-This website is currently a work in progress. For an overview of my publications see my [Google Scholar](https://scholar.google.nl/citations?user=xWE5xroAAAAJ&hl=en){target="_blank"}.

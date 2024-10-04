@@ -26,11 +26,15 @@ about:
 
 ### **About me**
 
-I am an experimental evolutionary ecologist who studies how ecosystem context impacts the ecology and evolution of species interactions. I am interested in quantifying how environmental context (e.g., food web structure, resource quality) modifies species interactions to gain a better understanding of the mechanisms that maintain biodiversity and influence community dynamics.
+I am an experimental evolutionary ecologist interested in understanding how environmental context (e.g., food web structure, resource quality) modifies species interactions. Species interactions are among the most important forces structuring ecological communities and are often environment-dependent. Current approaches to predict changes in community structure over time often fail to reproduce observed dynamics, suggesting that ecologists are missing important biological mechanisms causing the patterns we see in nature. My research aims to quantify the ecological and evolutionary impact of environmental context on species interactions to better understand the mechanisms that maintain biodiversity and drive community dynamics.
 
-My research primarily uses use lab-based experiments to quantify species interactions, assay traits, and conduct experimental evolution. I primarily work with aquatic microorganisms, specifically protists and microzooplankton, specializing in continuous culturing methods (i.e., chemostats).
+<br>
 
-<center><img src="media/ministats.jpg" width="600"/></center>
+<center><img src="media/ministats.jpg" width="80%/"/></center>
+
+<br>
+
+My research combines lab-based experiments and mathematical models to quantify species interactions. I primarily work with aquatic microorganisms, specifically protists and microzooplankton, specializing in continuous culturing methods (i.e., chemostats).
 
 ------------------------------------------------------------------------
 
@@ -42,4 +46,4 @@ In January 2025 I will join [Dr. Emanuel Fronhofer’s](https://www.emanuelfronh
 
 <br> <br>
 
-This website is currently a work in progress. For an overview of my publications see my [Google Scholar](https://scholar.google.nl/citations?user=xWE5xroAAAAJ&hl=en){target="_blank"}.
+This website is currently a work in progress. If you have any questions please reach me using the information provided on the [Contact](contact.qmd) page.

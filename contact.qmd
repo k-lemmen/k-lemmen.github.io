@@ -1,0 +1,23 @@
+---
+title: "Contact"
+---
+
+::: columns
+::: {.column width="60%"}
+### Email
+
+kimberleydianne.lemmen \[\@\] uzh.ch
+
+### Address
+
+Department of Evolutionary Biology and Environmental Studies<br> University of Zurich<br> Winterthurerstrasse 190<br> 8057 Zurich, Switzerland
+
+Office: Y19-M-47<br> <br>
+:::
+
+::: {.column width="40%"}
+<center><img src="media/DSC02542.jpg" width="80%"/></center>
+:::
+:::
+
+------------------------------------------------------------------------

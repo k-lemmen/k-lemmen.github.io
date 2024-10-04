@@ -1,0 +1,46 @@
+---
+format:
+  html:
+    grid:
+      sidebar-width: 200px
+      body-width: 1030px
+      margin-width: 70px
+---
+
+::: column-screen
+![](media/wapusk.jpeg)
+:::
+
+## Publications
+
+An up-to-date publication list is also available on [Google Scholar](https://scholar.google.nl/citations?user=xWE5xroAAAAJ&hl=en){target="_blank"}.
+
+<ol reversed>
+
+<li>**K. Lemmen**, and F. Pennekamp. 2024 Food web context modifies predator foraging and weakens trophic interaction strength. Ecology Letters, 27, e14475. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.1111/ele.14475){target="_blank"}</li>
+
+<li>**K. Lemmen**, L. Zhou, S. Papakostas, and S.A.J. Declerck. 2023. An experimental test of the growth rate hypothesis as a predictive framework for microevolutionary adaptation. Ecology, 104(1): e3853. [Link {{< iconify academicons:open-access>}}](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3853){target="_blank"}.</li>
+
+<li>R.W. El-Sabaawi, **K. Lemmen**, P. Jeyasingh and S.A.J. Declerck. 2023. SEED: A framework for integrating ecological stoichiometry and eco-evolutionary dynamics. Ecology Letters, 26(Suppl. 1), S109–S126. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.1111/ele.14285){target="_blank"}</li>
+
+<li><u>C. Shen</u>, **K. Lemmen**, J. Alexander, and F. Pennekamp. 2023. Connecting higher-order interactions with ecological stability in experimental aquatic food webs. Ecology and Evolution, 13, e10502. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.1002/ece3.10502){target="_blank"}</li>
+
+<li>R. Limberger, U. Daugaard, A. Gupta, R. Krug, **K. Lemmen**, S. van Moorsel, M. Suleiman, D. Zuppinger-Dingley, and O. Petchey. 2023. Functional diversity can facilitate the collapse of an undesirable ecosystem state. Ecology Letters, 26, 883– 895. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.1111/ele.14217){target="_blank"}</li>
+
+<li>**K. Lemmen**, K. Verhoeven, and S.A.J. Declerck. 2022. Experimental evidence of rapid heritable adaptation in the absence of initial standing genetic variation. Functional Ecology, 36(1): 226-238. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.1111/1365-2435.13943){target="_blank"} <br>\**Shortlisted, [Haldane Prize](https://tinyurl.com/4hzk638m){target="_blank"} for best paper by an early career researcher*</li>
+
+<li>M. Cuenca-Cambronero, C.J. Courtney-Mustaphi., R. Greenway, O. Heiri, C.M. Hudson, L. King, **K. Lemmen**, M. Moosmann, M. Muschick, N. Ngoepe, O. Seehausen, and B. Matthews. 2022. Integrating evolutionary processes with paleolimnological proxies in freshwater ecosystems. Trends in Ecology and Evolution, 37(6): 488-496. [Link](https://10.1016/j.tree.2022.01.007){target="_blank"}</li>
+
+<li>**K. Lemmen**, O. Butler, T. Koffel, S. Rudman, and C. Symons. 2019. Stoichiometric Traits Vary Widely Within Species: A Meta-analysis of Common Garden Experiments. Frontiers in Ecology and Evolution, 7: 339. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.3389/fevo.2019.00339){target="_blank"}</li>
+
+<li>W. Zhang, **K. Lemmen**, L. Zhou, S. Papakostas, and S.A.J. Declerck. 2019. Patterns of differentiation in the life history and demography of four recently described species of the Brachionus calyciflorus cryptic species complex. Freshwater Biology, 64: 1994–2005. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.1111/fwb.13388){target="_blank"}</li>
+
+<li>L. Zhou, **K. Lemmen**, W. Zhang and S.A.J. Declerck. 2018. Direct and indirect effects of resource P-limitation differentially impact population growth, life history and body elemental composition of a zooplankton consumer. Frontiers in Microbiology, 9: 72. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.3389/fmicb.2018.00172){target="_blank"}</li>
+
+<li>S.A.J. Declerck, A. Malo, S. Diehl, D. Waasdorp, **K. Lemmen**, K. Proios, and S. Papakostas. 2015. Rapid adaptation of herbivore consumers to nutrient limitation: eco-evolutionary feedbacks to population demography and resource control. Ecology Letters, 18: 553–562. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.1111/ele.12436){target="_blank"}</li>
+
+<li>T. Burg, S.A. Taylor, **K. Lemmen**, A.J. Gaston, and V.L. Friesen. 2014. Postglacial population differentiation potentially facilitated by a flexible migratory strategy in golden-crowned kinglets (Regulus satrapa). Canadian Journal of Zoology, 92: 163-172. [Link](https://doi.org/10.1139/cjz-2013-0217){target="_blank"}</li>
+
+</ol>
+
+<u>Underlined name</u> - indicates the lead author is a student (BSc or MSc)

@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    grid:
+      sidebar-width: 200px
+      body-width: 1030px
+      margin-width: 70px
+---
+
+::: column-screen
+![](media/chemostats.jpeg)
+:::
+
+## Research
+
+::: columns
+::: {.column width="40%"}
+<br> <br>
+
+<center><img src="media/TIM.jpg" width="80%"/></center>
+:::
+
+::: {.column width="60%"}
+### Influence of food web structure on species interactions
+
+<br> Species interactions are commonly studied by decomposing a community into directly interacting focal pairs. However, in a multispecies context, a third species can indirectly modify a pairwise interaction, known as a higher-order interaction (HOI). Theoretical studies suggest that HOIs may be important for community stability. Empirical studies have documented that HOIs exist in nature; however, we lack a quantification of the dynamic effect of modifier density (e.g. linear, saturating) needed to evaluate theoretical predictions and model community composition changes over time.
+
+My research aims to experimentally quantify how the presence of one or more modifier species influences competitive and trophic interactions. My research has shown that accounting for food web structure is often necessary to understand and predict community dynamics. A crucial next step is to understand when HOIs will be important for community dynamics, and when they can be ignored.
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="60%"}
+### Ecological consequences of consumer adaptation to resource quality
+
+<br> An overlooked impact of the Anthropocene is how changes in elemental availability affect interactions between organisms and their resources. Rising atmospheric carbon and temperatures are expected to increase the amount of carbon in plants compared to other elements. This higher carbon content reduces the nutritional quality of plants, which can harm animals that feed on them, and this effect may extend through the food chain. It is currently unclear if evolutionary responses in consumer populations can mitigate the negative effects of resource quality, and if so, what are the downstream ecological consequences.
+
+My research investigates the capacity of populations to adapt to adverse resource quality and which traits mediate microevolutionary change. This work utilizes experimentally evolved, and field populations from contrasting resource quality environments to assay traits of adapted populations.
+:::
+
+::: {.column width="40%"}
+<br> <br>
+
+<center><img src="media/rotifer.jpeg" width="80%"/></center>
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="40%"}
+<br> <br>
+
+<center><img src="media/speciesmix.jpeg" width="80%"/></center>
+:::
+
+::: {.column width="60%"}
+### Impact of species interactions on evolutionary trajectories
+
+<br> Understanding how organisms evolve in complex environments is a key challenge in biology. Lab-based experimental evolution is useful for studying real-time evolution, but these experiments usually involve simple settings with unlimited resources and no interactions between species. Since species interactions can limit adaptation, conducting experimental evolution in more complex, species-rich environments is necessary to understand the process of adaptation in more realistic environments.
+
+My research examines the influence of species interactions on microevolution using controlled lab-based experiments. My work has demonstrated that ecological context influences the mechanistic pathways of adaptation. I will continue to explore how species interactions influence evolutionary trajectories as a Swiss National Science Foundation research fellow investigating the independent and interacting effects of resource quality and predation on the evolution of range expansion speed.
+:::
+:::
