@@ -15,8 +15,6 @@ about:
     - icon: github
       text: Github
       url: https://github.com/k-lemmen
-    - text: "{{< iconify fa6-brands:google-scholar size=large >}} Google Scholar"
-      url: https://scholar.google.nl/citations?user=xWE5xroAAAAJ&hl=en
     #- text: "{{< iconify fa6-brands:orcid size=large >}} ORCID"
     #  url: https://orcid.org/0000-0002-2100-5420
     - icon: twitter

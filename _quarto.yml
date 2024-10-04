@@ -17,6 +17,10 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2024, Kimberley D. Lemmen
+    right: This website was built with [{{< iconify fa6-brands:github size=large >}}](https://github.com/k-lemmen/k-lemmen.github.io){target=_blank}, [{{< iconify fa6-brands:r-project size=large >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
