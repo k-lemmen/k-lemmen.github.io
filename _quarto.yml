@@ -13,8 +13,8 @@ website:
         text: Research
       - href: pubs.qmd
         text: Publications
-      - href: "media/Lemmen_CV_General.pdf"
-        text: CV
+      #- href: "media/Lemmen_CV_General.pdf"
+      #  text: CV
       - href: contact.qmd
         text: Contact
   page-footer:
