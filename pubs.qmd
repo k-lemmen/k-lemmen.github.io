@@ -18,6 +18,8 @@ An up-to-date publication list is also available on [Google Scholar](https://sch
 
 <ol reversed>
 
+<li>L. Zhou, **K. Lemmen**, S. Zhao and S.A.J. Declerck. 2025. Asymmetrical evolution of cross inhibition in zooplankton: insights from contrasting phosphorus limitation and salinization exposure sequences. Proceedings of the Royal Society B: Biological Sciences, 292: 20243064. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.1098/rspb.2024.3064){target="_blank"}</li>
+
 <li>**K. Lemmen**, and F. Pennekamp. 2024 Food web context modifies predator foraging and weakens trophic interaction strength. Ecology Letters, 27, e14475. [Link {{< iconify academicons:open-access>}}](https://doi.org/10.1111/ele.14475){target="_blank"}</li>
 
 <li>**K. Lemmen**, L. Zhou, S. Papakostas, and S.A.J. Declerck. 2023. An experimental test of the growth rate hypothesis as a predictive framework for microevolutionary adaptation. Ecology, 104(1): e3853. [Link {{< iconify academicons:open-access>}}](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3853){target="_blank"}.</li>
